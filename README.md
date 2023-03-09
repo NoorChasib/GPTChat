@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/113642847/224161389-25aae465-cbf1-4503
 
 
 ## About
-GPTChat is an AI chat app that utilizes the ChatGPT API. 
+GPTChat is an AI chat app that utilizes ChatGPT. 
 
 Built using React, SCSS, Redux Toolkit, ChatEngine, Node.js, Express.js and OpenAI API.
  
